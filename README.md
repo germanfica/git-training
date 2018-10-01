@@ -13,9 +13,9 @@ Before proceeding, make sure all your changes are committed, including your .git
 Step 2: Remove everything from the repository
 To clear your repo, use:
 
-´´´git
+```git
 git rm -r --cached .
-´´´
+```
 rm is the remove command
 -r will allow recursive removal
 –cached will only remove files from the index. Your files will still be there.
