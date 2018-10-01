@@ -13,7 +13,7 @@ Before proceeding, make sure all your changes are committed, including your .git
 ### Step 2: Remove everything from the repository
 To clear your repo, use:
 
-```git
+```bash
 git rm -r --cached .
 ```
 rm is the remove command
@@ -24,7 +24,9 @@ The rm command can be unforgiving. If you wish to try what it does beforehand, a
 ### Step 3: Re add everything
 git add .
 ### Step 4: Commit
+```bash
 git commit -m ".gitignore fix"
+```
 Your repository is clean :)
 
 Push the changes to your remote to see the changes effective there as well.
