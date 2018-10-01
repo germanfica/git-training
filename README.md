@@ -22,7 +22,9 @@ rm is the remove command
 The rm command can be unforgiving. If you wish to try what it does beforehand, add the -n or --dry-run flag to test things out.
 
 ### Step 3: Re add everything
+```bash
 git add .
+```
 ### Step 4: Commit
 ```bash
 git commit -m ".gitignore fix"
