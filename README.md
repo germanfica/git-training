@@ -19,7 +19,7 @@ git rm -r --cached .
 - [rm](https://git-scm.com/docs/git-rm) is the remove command
 - <b>-r</b> will allow recursive removal
 - <b>-cached</b> will only remove files from the index. Your files will still be there.
-The rm command can be unforgiving. If you wish to try what it does beforehand, add the -n or --dry-run flag to test things out.
+The `rm` command can be unforgiving. If you wish to try what it does beforehand, add the `-n` or `--dry-run` flag to test things out.
 
 ### Step 3: Re add everything
 ```bash
