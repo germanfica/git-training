@@ -1,5 +1,5 @@
 # git-training
-
+## Untrack files
 Use this when:
 1. You want to untrack a lot of files, or
 2. You updated your gitignore file
@@ -27,5 +27,5 @@ Your repository is clean :)
 
 Push the changes to your remote to see the changes effective there as well.
 
-Credits:
+<b>Credits:</b>
 [Dheeraj Bhaskar](https://stackoverflow.com/users/1311745/dheeraj-bhaskar)
